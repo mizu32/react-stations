@@ -9,12 +9,12 @@ import './App.css'
  */
 export const App = () => {
   return (
-    <header>
-      <h1>Dogアプリ</h1>
-    </header>
-
     <div>
       <h2></h2>
     </div>
   )
 }
+
+const header = <header>
+    <h1>Dogアプリ</h1>
+</header>
