@@ -15,6 +15,8 @@ export const App = () => {
   )
 }
 
-const header = <header>
-    <h1>Dogアプリ</h1>
-</header>
+const header = (
+  <header>
+    Dogアプリ
+  </header>
+);
