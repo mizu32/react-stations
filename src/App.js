@@ -7,15 +7,12 @@ import './App.css'
  * 
  * @type {React.FC}
  */
-
-const header = (
-  <header>
-    <h1>Dogアプリ</h1>
-  </header>
-);
-
 export const App = () => {
   return (
+    <header>
+      <h1>Dogアプリ</h1>
+    </header>
+
     <div>
       <h2></h2>
     </div>
